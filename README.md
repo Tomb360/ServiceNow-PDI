@@ -1,4 +1,4 @@
-# <p align="center">ServiceNow Homelab Project</p>
+# <p align="center">ServiceNow Homelab</p>
 
 <p align="center">A personal developer instance configured to demonstrate core ITSM workflows including incident management, request fulfilment, assignment rules, and reporting. Built using a free ServiceNow Personal Developer Instance (PDI).</p>
 
